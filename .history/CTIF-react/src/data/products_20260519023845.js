@@ -1,0 +1,81 @@
+// src/data/products.js
+const baseUrl = "https://ik.imagekit.io/vmbswzj1s";
+
+export const allProducts = [
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/7ecd8016-5b9f-4c7e-8ee5-5a88a5537138.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/8cb117da-50b5-4b5b-8175-f34e70eb6b50.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/43f57457-decc-4dca-8c92-48e977140dea.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/6f660d59-899b-4cfb-9519-171a65ded534.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/3ec7a17a-8b9c-4df5-bb68-a1e9cc2b8ad0.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/7ecd8016-5b9f-4c7e-8ee5-5a88a5537138.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+
+  {
+    id: 14,
+    name: "Your Product Name",
+    price: 99,
+    frontImg: `${baseUrl}/tr:f-auto,q-auto/clothing/7ecd8016-5b9f-4c7e-8ee5-5a88a5537138.JPG`,
+    // backImg: `${baseUrl}/tr:f-auto,q-auto/clothing/16.png`,
+    inStock: true,
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["Purple", "Grey"],
+  },
+];
